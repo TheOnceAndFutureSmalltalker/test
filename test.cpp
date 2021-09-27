@@ -4,5 +4,6 @@ struct Foo {
   int z;
   int w;
   // comment
+  void calculcate() {}
 };
 
