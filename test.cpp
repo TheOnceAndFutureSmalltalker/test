@@ -3,5 +3,6 @@ struct Foo {
   int y;
   int z;
   int w;
+  // comment
 };
 
